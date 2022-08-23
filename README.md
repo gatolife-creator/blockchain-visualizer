@@ -26,5 +26,5 @@ index.html や main.jsのコードがまとめられて **/dist** に入るの�
 
 ----------
 
-不備や疑問がありましたら、[こちらから](gatolifechannel@gmail.com)
+不備や疑問がありましたら、[こちらから](<mailto:gatolifechannel@gmail.com>)
 
